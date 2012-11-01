@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Rosalind", "Rosalind\Rosalind.fsproj", "{8A92FD73-B1CC-4C1A-916A-EEF7D10CD077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A92FD73-B1CC-4C1A-916A-EEF7D10CD077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A92FD73-B1CC-4C1A-916A-EEF7D10CD077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A92FD73-B1CC-4C1A-916A-EEF7D10CD077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A92FD73-B1CC-4C1A-916A-EEF7D10CD077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Rosalind\Rosalind.fsproj
+	EndGlobalSection
+EndGlobal
