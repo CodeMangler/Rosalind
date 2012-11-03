@@ -37,6 +37,8 @@
   <ItemGroup>
     <Compile Include="1.DNA.fsx" />
     <Compile Include="3.REVC.fsx" />
+    <Compile Include="4.GC.fsx" />
+    <Compile Include="ConsoleTest.fsx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\FSharp\1.0\Microsoft.FSharp.Targets" />
   <ItemGroup>
